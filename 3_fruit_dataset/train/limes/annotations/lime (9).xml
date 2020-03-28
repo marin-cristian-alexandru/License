@@ -1,0 +1,50 @@
+<annotation>
+	<folder>images</folder>
+	<filename>lime (9).jpg</filename>
+	<path>/home/alexmarin/Desktop/LICENTA/dataset_creation/3_fruit_dataset/train/limes/images/lime (9).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>237</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lime</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>63</ymin>
+			<xmax>149</xmax>
+			<ymax>192</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>lime</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>81</xmin>
+			<ymin>6</ymin>
+			<xmax>189</xmax>
+			<ymax>94</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>lime</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>162</xmin>
+			<ymin>49</ymin>
+			<xmax>281</xmax>
+			<ymax>173</ymax>
+		</bndbox>
+	</object>
+</annotation>

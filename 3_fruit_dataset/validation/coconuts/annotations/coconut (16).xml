@@ -1,0 +1,50 @@
+<annotation>
+	<folder>images</folder>
+	<filename>coconut (16).jpg</filename>
+	<path>/home/alexmarin/Desktop/LICENTA/dataset_creation/3_fruit_dataset/train/coconuts/images/coconut (16).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>coconut</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>259</ymin>
+			<xmax>579</xmax>
+			<ymax>1042</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>coconut</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>582</xmin>
+			<ymin>715</ymin>
+			<xmax>1177</xmax>
+			<ymax>1422</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>coconut</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>582</xmin>
+			<ymin>142</ymin>
+			<xmax>1179</xmax>
+			<ymax>701</ymax>
+		</bndbox>
+	</object>
+</annotation>
