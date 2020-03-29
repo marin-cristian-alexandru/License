@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>banana (14).jpg</filename>
+	<path>/home/alexmarin/Desktop/LICENTA/dataset_creation/processing_fruits/bananas/images/banana (14).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4203</width>
+		<height>2371</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>banana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>235</xmin>
+			<ymin>598</ymin>
+			<xmax>3341</xmax>
+			<ymax>1946</ymax>
+		</bndbox>
+	</object>
+</annotation>

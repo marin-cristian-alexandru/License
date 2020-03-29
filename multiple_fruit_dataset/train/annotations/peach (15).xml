@@ -1,0 +1,50 @@
+<annotation>
+	<folder>images</folder>
+	<filename>peach (15).jpg</filename>
+	<path>/home/alexmarin/Desktop/LICENTA/dataset_creation/3_fruit_dataset/train/peaches/images/peach (15).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3008</width>
+		<height>2000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>peach</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>605</xmin>
+			<ymin>175</ymin>
+			<xmax>2209</xmax>
+			<ymax>1786</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>peach</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2380</xmin>
+			<ymin>823</ymin>
+			<xmax>3008</xmax>
+			<ymax>1777</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>peach</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>660</ymin>
+			<xmax>628</xmax>
+			<ymax>1717</ymax>
+		</bndbox>
+	</object>
+</annotation>
