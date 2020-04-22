@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>pineapple (2).jpg</filename>
+	<path>/home/alexmarin/Desktop/LICENTA/dataset_creation/processing_fruits/pineapples/images/pineapple (2).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>322</width>
+		<height>595</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pineapple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>52</xmin>
+			<ymin>17</ymin>
+			<xmax>274</xmax>
+			<ymax>582</ymax>
+		</bndbox>
+	</object>
+</annotation>
