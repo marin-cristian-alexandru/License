@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>kiwi (15).jpg</filename>
+	<path>/home/alexmarin/Desktop/LICENTA/dataset_creation/processing_fruits/kiwifruit/images/kiwi (15).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kiwi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>65</xmin>
+			<ymin>43</ymin>
+			<xmax>340</xmax>
+			<ymax>362</ymax>
+		</bndbox>
+	</object>
+</annotation>

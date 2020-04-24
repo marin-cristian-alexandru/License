@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>watermelon (16).jpg</filename>
+	<path>/home/alexmarin/Desktop/LICENTA/dataset_creation/processing_fruits/watermelons/images/watermelon (16).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>321</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>watermelon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>37</ymin>
+			<xmax>329</xmax>
+			<ymax>273</ymax>
+		</bndbox>
+	</object>
+</annotation>

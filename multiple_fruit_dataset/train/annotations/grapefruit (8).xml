@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>grapefruit (8).jpg</filename>
+	<path>/home/alexmarin/Desktop/LICENTA/dataset_creation/processing_fruits/grapefruits/images/grapefruit (8).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2432</width>
+		<height>2259</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>grapefruit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>238</xmin>
+			<ymin>51</ymin>
+			<xmax>2196</xmax>
+			<ymax>2017</ymax>
+		</bndbox>
+	</object>
+</annotation>

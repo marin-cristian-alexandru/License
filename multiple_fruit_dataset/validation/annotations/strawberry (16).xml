@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>strawberry (16).jpg</filename>
+	<path>/home/alexmarin/Desktop/LICENTA/dataset_creation/processing_fruits/strawberries/images/strawberry (16).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>318</width>
+		<height>305</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>strawberry</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>55</xmin>
+			<ymin>37</ymin>
+			<xmax>259</xmax>
+			<ymax>270</ymax>
+		</bndbox>
+	</object>
+</annotation>
