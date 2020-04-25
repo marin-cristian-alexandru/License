@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>damaged_avocado (7).jpg</filename>
+	<path>/home/alexmarin/Desktop/LICENTA/dataset_creation/processing_fruits/bad-rotten/avocado/images/damaged_avocado (7).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>damaged_avocado</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>37</xmin>
+			<ymin>22</ymin>
+			<xmax>435</xmax>
+			<ymax>744</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>damaged_avocado</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>443</xmin>
+			<ymin>79</ymin>
+			<xmax>871</xmax>
+			<ymax>741</ymax>
+		</bndbox>
+	</object>
+</annotation>

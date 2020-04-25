@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>damaged_strawberry (7).jpg</filename>
+	<path>/home/alexmarin/Desktop/LICENTA/dataset_creation/processing_fruits/bad-rotten/strawberry/images/damaged_strawberry (7).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>957</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>damaged_strawberry</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>249</xmin>
+			<ymin>249</ymin>
+			<xmax>627</xmax>
+			<ymax>705</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>damaged_strawberry</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>626</xmin>
+			<ymin>305</ymin>
+			<xmax>1026</xmax>
+			<ymax>737</ymax>
+		</bndbox>
+	</object>
+</annotation>

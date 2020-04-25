@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>damaged_pear (1).jpg</filename>
+	<path>/home/alexmarin/Desktop/LICENTA/dataset_creation/processing_fruits/bad-rotten/pears/images/damaged_pear (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>209</width>
+		<height>241</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>damaged_pear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>54</ymin>
+			<xmax>175</xmax>
+			<ymax>228</ymax>
+		</bndbox>
+	</object>
+</annotation>

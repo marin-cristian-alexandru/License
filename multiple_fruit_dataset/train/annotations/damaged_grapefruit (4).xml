@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>damaged_grapefruit (4).jpg</filename>
+	<path>/home/alexmarin/Desktop/LICENTA/dataset_creation/processing_fruits/bad-rotten/grapefruit/images/damaged_grapefruit (4).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>250</width>
+		<height>166</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>damaged_grapefruit</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>16</ymin>
+			<xmax>190</xmax>
+			<ymax>166</ymax>
+		</bndbox>
+	</object>
+</annotation>

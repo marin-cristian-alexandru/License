@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>damaged_banana (10).jpg</filename>
+	<path>/home/alexmarin/Desktop/LICENTA/dataset_creation/processing_fruits/bad-rotten/banana/images/damaged_banana (10).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1820</width>
+		<height>2730</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>damaged_banana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>828</xmin>
+			<ymin>179</ymin>
+			<xmax>1428</xmax>
+			<ymax>2392</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>banana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>95</xmin>
+			<ymin>92</ymin>
+			<xmax>712</xmax>
+			<ymax>2338</ymax>
+		</bndbox>
+	</object>
+</annotation>
